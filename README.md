@@ -2,7 +2,7 @@
 
 Read our paper [here.](https://link.springer.com/article/10.1007/s10579-018-9427-x)
 
-Visit our website for more info: [shemodb](http://www.shemodb.com)
+Visit our [website](http://www.shemodb.com) for more info
 
 ## References
 If you use this dataset, please cite the following paper:
