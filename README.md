@@ -1,6 +1,6 @@
 # <a href='https://link.springer.com/article/10.1007/s10579-018-9427-x'>ShEMO: a large-scale validated database for Persian speech emotion detection</a><br>
 
-Sharif Speech Emotional Database (ShEMO)
+Sharif Speech Emotional Database (ShEMO) دادگان گفتار احساسی شریف
 
 Read our paper [here](https://link.springer.com/article/10.1007/s10579-018-9427-x)
 
