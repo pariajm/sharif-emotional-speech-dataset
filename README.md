@@ -1,6 +1,6 @@
 # <a href='https://link.springer.com/article/10.1007/s10579-018-9427-x'>ShEMO: a large-scale validated database for Persian speech emotion detection</a><br>
 
-Read our paper [here.](https://link.springer.com/article/10.1007/s10579-018-9427-x)
+Read our paper [here](https://link.springer.com/article/10.1007/s10579-018-9427-x)
 
 Visit our [website](http://www.shemodb.com) for more info
 
