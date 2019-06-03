@@ -1,7 +1,9 @@
 # ShEMO
 Sharif Emotional Speech Database
 
-Visit our website: [shemodb](http://www.shemodb.com)
+Read our paper [here.](https://link.springer.com/article/10.1007/s10579-018-9427-x)
+
+Visit our website for more info: [shemodb](http://www.shemodb.com)
 
 ## References
 If you use this dataset, please cite the following paper:
