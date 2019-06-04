@@ -2,18 +2,24 @@
 
 ## Abstract
 <div align="justify"> This paper introduces a large-scale, validated database for Persian called Sharif Emotional Speech Database (ShEMO). The database includes 3000 semi-natural utterances, equivalent to 3 hours and 25 minutes of speech data extracted from online radio plays. The ShEMO covers speech samples of 87 native-Persian speakers for five basic emotions including <i>anger</i>, <i>fear</i>, <i>happiness</i>, <i>sadness</i> and <i>surprise</i>, as well as neutral state. Twelve annotators label the underlying emotional state of utterances and majority voting is used to decide on the final labels. According to the kappa measure, 
-the inter-annotator agreement is 64% which is interpreted as "substantial agreement". We also present benchmark results based on common classification methods in speech emotion detection task. According to the experiments, support vector machine achieves the best results for both gender-independent (58.2%) and gender-dependent models (female=59.4%, male=57.6%). The ShEMO is available in www.shemodb.com for academic purposes free of charge to provide a baseline for further research on Persian emotional speech.
+the inter-annotator agreement is 64% which is interpreted as "substantial agreement". We also present benchmark results based on common classification methods in speech emotion detection task. According to the experiments, support vector machine achieves the best results for both gender-independent (58.2%) and gender-dependent models (female=59.4%, male=57.6%). The ShEMO is available in <i>www.shemodb.com</i> for academic purposes free of charge to provide a baseline for further research on Persian emotional speech.
 
-##About ShEMO
+## About ShEMO
 
-Sharif Emotional Speech Database (ShEMO) 
+<ul>
+<li>Sharif Emotional Speech Database (ShEMO)</li> 
 
-Language: Persian
+<li>Language: Persian</li>
 
-Read our paper on [Springer](https://link.springer.com/article/10.1007/s10579-018-9427-x)
+<li>Orthographic transcriptions: Available</li>
 
-Visit our [website](http://www.shemodb.com) for more info
+<li>Phonetic transcriptions: Available</li>
 
+<li>Read our paper on [Springer](https://link.springer.com/article/10.1007/s10579-018-9427-x)</li>
+
+<li>Visit our [website](http://www.shemodb.com) for more info </li>
+</ul>
+  
 ## References
 If you use this dataset, please cite the following paper:
 ~~~~
