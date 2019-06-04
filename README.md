@@ -20,7 +20,7 @@ the inter-annotator agreement is 64% which is interpreted as "substantial agreem
 
 Read our paper on <a href='https://link.springer.com/article/10.1007/s10579-018-9427-x'>Springer
 
-Visit our <a href='http://www.shemodb.com'>website for more info 
+Visit our <a href='http://www.shemodb.com/'>[website] for more info 
 
   
 ## References
