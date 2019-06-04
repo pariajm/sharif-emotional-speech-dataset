@@ -17,9 +17,10 @@ the inter-annotator agreement is 64% which is interpreted as "substantial agreem
 
 <li>Phonetic transcriptions: Available</li>
 </ul>
-Read our paper on [Springer](https://link.springer.com/article/10.1007/s10579-018-9427-x)
 
-Visit our [website](http://www.shemodb.com) for more info 
+Read our paper on <a href='https://link.springer.com/article/10.1007/s10579-018-9427-x'>Springer
+
+Visit our <a href='http://www.shemodb.com'>website for more info 
 
   
 ## References
