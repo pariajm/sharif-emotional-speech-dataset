@@ -23,7 +23,7 @@ Read our paper on <a href='https://link.springer.com/article/10.1007/s10579-018-
 Visit our <a href='http://www.shemodb.com/'>website</a> for more info 
 
 ## دادگان گفتار احساسی شریف
-برای دریافت مقاله <a href='https://arxiv.org/pdf/1906.01155.pdf/'>اینجا</a> کلیک کنید
+برای دریافت مقاله <a href='https://arxiv.org/pdf/1906.01155.pdf'>اینجا</a> کلیک کنید
 
 ## References
 If you use this dataset, please cite the following paper:
