@@ -22,7 +22,7 @@ Read our paper on <a href='https://link.springer.com/article/10.1007/s10579-018-
 
 Visit our <a href='http://www.shemodb.com/'>website</a> for more info 
 
-## Description of Labelsl
+## Description of Labels
 The characters used in the labels and their corresponding meaning:
 <ul>
 <li>M = male speaker</li>
