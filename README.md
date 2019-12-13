@@ -24,14 +24,23 @@ Visit our <a href='http://www.shemodb.com/'>website</a> for more info
 
 ## Description of Labelsl
 The characters used in the labels and their corresponding meaning:
+
 M = male speaker
+
 F = female speaker
+
 S = sadness
+
 A = anger
+
 H = happiness
+
 W = surprise
+
 F = fear
+
 N = neutral
+
 e.g. F03S02 means the speaker is female (F), speaker code is 03, the underlying emotion of the utterance is sadness (S),
 and this is the second utterance for this speaker in sad emotion.
 
