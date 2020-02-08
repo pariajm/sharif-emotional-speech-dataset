@@ -1,4 +1,4 @@
-# <a href='https://link.springer.com/article/10.1007/s10579-018-9427-x'>ShEMO: a large-scale validated database for Persian speech emotion detection  دادگان گفتار احساسی شریف (شمو) </a><br>
+# <a href='https://link.springer.com/article/10.1007/s10579-018-9427-x'>ShEMO: a large-scale validated database for Persian speech emotion detection</a><br>
 
 ## Abstract
 <div align="justify"> This paper introduces a large-scale, validated database for Persian called Sharif Emotional Speech Database (ShEMO). The database includes 3000 semi-natural utterances, equivalent to 3 hours and 25 minutes of speech data extracted from online radio plays. The ShEMO covers speech samples of 87 native-Persian speakers for five basic emotions including <i>anger</i>, <i>fear</i>, <i>happiness</i>, <i>sadness</i> and <i>surprise</i>, as well as neutral state. Twelve annotators label the underlying emotional state of utterances and majority voting is used to decide on the final labels. According to the kappa measure, 
@@ -37,7 +37,7 @@ The characters used in the labels and their corresponding meaning:
 e.g. F03S02 means the speaker is female (F), speaker code is 03, the underlying emotion of the utterance is sadness (S),
 and this is the second utterance for this speaker in sad emotion.
 
-## دادگان گفتار احساسی شریف
+## دادگان گفتار احساسی شریف (شمو) 
 برای دریافت مقاله <a href='https://arxiv.org/pdf/1906.01155.pdf'>اینجا</a> کلیک کنید
 
 ## References
