@@ -32,7 +32,7 @@ The characters used in the labels and their corresponding meaning:
 <li>F = fear</li>
 <li>N = neutral</li>
 </ul>
-e.g. `F03S02` means the speaker is female (F), speaker code is 03, the underlying emotion of the utterance is sadness (S),
+e.g. F03S02 means the speaker is female (F), speaker code is 03, the underlying emotion of the utterance is sadness (S),
 and this is the second utterance for this speaker in sad emotion.
 
 ## دادگان گفتار احساسی شریف (شمو) 
