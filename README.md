@@ -24,17 +24,13 @@ Read our paper on <a href='https://link.springer.com/article/10.1007/s10579-018-
 
 ## Description of Labels
 The characters used in the labels and their corresponding meaning:
-<ul>
-<li>A : anger emotion</li>
-<li>F : female speaker (if used at the beginning of the label e.g. __F14A09__) or fear (if used in the middle of the label e.g. __M02F01__)</li>
-<li>H : happiness</li>
-<li>M : male speaker</li>
-<li>N : neutral</li>
-<li>S : sadness</li>
-<li>W = surprise</li>
-<li>F = fear</li>
-
-</ul>
+- A : anger emotion
+- F : female speaker (if used at the beginning of the label e.g. **F14A09**) or fear (if used in the middle of the label e.g. __M02F01__)
+- H : happiness
+- M : male speaker
+- N : neutral
+- S : sadness
+- W : surprise
 
 e.g. __F03S02__ means the speaker is __female (F)__, __speaker code is 03__, the underlying emotion of the utterance is __sadness (S)__,
 and this is the __second utterance for this speaker in sad emotion__.
