@@ -34,8 +34,9 @@ The characters used in the labels and their corresponding meaning:
 <li>F = fear</li>
 <li>N = neutral</li>
 </ul>
-e.g. **F03S02** means the speaker is **female (F)**, speaker code is **03**, the underlying emotion of the utterance is **sadness (S)**,
-and this is the **second utterance** for this speaker in sad emotion.
+
+e.g. __F03S02__ means the speaker is __female (F)__, speaker code is __03__, the underlying emotion of the utterance is __sadness (S)__,
+and this is the __second utterance__ for this speaker in sad emotion.
 
 ## دادگان گفتار احساسی شریف (شمو) 
 برای دریافت مقاله <a href='https://arxiv.org/pdf/1906.01155.pdf'>اینجا</a> کلیک کنید
