@@ -1,3 +1,5 @@
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) 
+
 # <a href='https://link.springer.com/article/10.1007/s10579-018-9427-x'>ShEMO: a large-scale validated database for Persian speech emotion detection</a><br>
 
 ## Abstract
@@ -7,15 +9,15 @@ the inter-annotator agreement is 64% which is interpreted as "substantial agreem
 ## ShEMO
 
 <ul>
-<li>Sharif Emotional Speech Database (ShEMO)</li> 
+<li> Sharif Emotional Speech Database (ShEMO)</li> 
 
-<li>Language: Persian</li>
+<li> Language: Persian</li>
 
-<li> Duration: 3.25 hours </li>
+<li> Duration: 3 hours and 25 minutes</li>
 
-<li>Orthographic transcriptions: Available</li>
+<li>Orthographic transcripts: Available</li>
 
-<li>Phonetic transcriptions: Available</li>
+<li>Phonetic transcripts: Available</li>
 </ul>
 
 Read our paper on <a href='https://link.springer.com/article/10.1007/s10579-018-9427-x'>Springer</a> or [arxiv](https://arxiv.org/pdf/1906.01155.pdf)
@@ -32,8 +34,8 @@ The characters used in the labels and their corresponding meaning:
 <li>F = fear</li>
 <li>N = neutral</li>
 </ul>
-e.g. F03S02 means the speaker is female (F), speaker code is 03, the underlying emotion of the utterance is sadness (S),
-and this is the second utterance for this speaker in sad emotion.
+e.g. **F03S02** means the speaker is **female (F)**, speaker code is **03**, the underlying emotion of the utterance is **sadness (S)**,
+and this is the **second utterance** for this speaker in sad emotion.
 
 ## دادگان گفتار احساسی شریف (شمو) 
 برای دریافت مقاله <a href='https://arxiv.org/pdf/1906.01155.pdf'>اینجا</a> کلیک کنید
