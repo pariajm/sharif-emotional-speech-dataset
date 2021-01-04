@@ -43,7 +43,7 @@ and this is the __second utterance for this speaker in sad emotion__.
 ## دادگان گفتار احساسی شریف (شمو) 
 برای دریافت مقاله <a href='https://arxiv.org/pdf/1906.01155.pdf'>اینجا</a> کلیک کنید
 
-## References
+## Citation
 If you use this dataset, please cite the following paper:
 ~~~~
 @Article{MohamadNezami2019,
