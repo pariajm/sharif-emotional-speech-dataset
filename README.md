@@ -6,6 +6,11 @@
 <div align="justify"> This paper introduces a large-scale, validated database for Persian called Sharif Emotional Speech Database (ShEMO). The database includes 3000 semi-natural utterances, equivalent to 3 hours and 25 minutes of speech data extracted from online radio plays. The ShEMO covers speech samples of 87 native-Persian speakers for five basic emotions including <i>anger</i>, <i>fear</i>, <i>happiness</i>, <i>sadness</i> and <i>surprise</i>, as well as neutral state. Twelve annotators label the underlying emotional state of utterances and majority voting is used to decide on the final labels. According to the kappa measure, 
 the inter-annotator agreement is 64% which is interpreted as "substantial agreement". We also present benchmark results based on common classification methods in speech emotion detection task. According to the experiments, support vector machine achieves the best results for both gender-independent (58.2%) and gender-dependent models (female=59.4%, male=57.6%). The ShEMO is available for academic purposes free of charge to provide a baseline for further research on Persian emotional speech.
 
+## Download Database
+- [Link to female utterances](https://github.com/pariajm/sharif-emotional-speech-database/blob/master/female.zip?raw=true)
+- [Link to male utterances](https://github.com/pariajm/sharif-emotional-speech-database/blob/master/male.zip?raw=true)
+- [Link to transcripts](https://github.com/pariajm/sharif-emotional-speech-database/blob/master/transcript.zip?raw=true) 
+
 ## ShEMO Database
 
 <ul>
@@ -34,11 +39,6 @@ The characters used in the labels and their corresponding meaning:
 
 e.g. __F03S02__ means the speaker is __female (F)__, __speaker code is 03__, the underlying emotion of the utterance is __sadness (S)__,
 and this is the __second utterance for this speaker in sad emotion__.
-
-## Download Database
-- [Link to female utterances](https://github.com/pariajm/sharif-emotional-speech-database/blob/master/female.zip?raw=true)
-- [Link to male utterances](https://github.com/pariajm/sharif-emotional-speech-database/blob/master/male.zip?raw=true)
-- [Link to transcripts](https://github.com/pariajm/sharif-emotional-speech-database/blob/master/transcript.zip?raw=true) 
 
 ## دادگان گفتار احساسی شریف (شمو) 
 برای دریافت مقاله <a href='https://arxiv.org/pdf/1906.01155.pdf'>اینجا</a> کلیک کنید
