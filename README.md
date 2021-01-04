@@ -20,6 +20,8 @@ the inter-annotator agreement is 64% which is interpreted as "substantial agreem
 <li>Phonetic transcripts: Available</li>
 </ul>
 
+[here](https://github.com/pariajm/sharif-emotional-speech-database/blob/master/female.zip?raw=true)
+
 Read our paper on <a href='https://link.springer.com/article/10.1007/s10579-018-9427-x'>Springer</a> or [arxiv](https://arxiv.org/pdf/1906.01155.pdf)
 
 ## Description of Labels
