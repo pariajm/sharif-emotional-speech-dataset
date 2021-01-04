@@ -20,8 +20,6 @@ the inter-annotator agreement is 64% which is interpreted as "substantial agreem
 <li>Phonetic transcripts: Available</li>
 </ul>
 
-[here](https://github.com/pariajm/sharif-emotional-speech-database/blob/master/female.zip?raw=true)
-
 Read our paper on <a href='https://link.springer.com/article/10.1007/s10579-018-9427-x'>Springer</a> or [arxiv](https://arxiv.org/pdf/1906.01155.pdf)
 
 ## Description of Labels
@@ -36,6 +34,11 @@ The characters used in the labels and their corresponding meaning:
 
 e.g. __F03S02__ means the speaker is __female (F)__, __speaker code is 03__, the underlying emotion of the utterance is __sadness (S)__,
 and this is the __second utterance for this speaker in sad emotion__.
+
+## Download ShEMO Database
+- [Link to female utterances](https://github.com/pariajm/sharif-emotional-speech-database/blob/master/female.zip?raw=true)
+- [Link to male utterances](https://github.com/pariajm/sharif-emotional-speech-database/blob/master/male.zip)
+- [Link to transcripts](https://github.com/pariajm/sharif-emotional-speech-database/blob/master/transcript.zip?raw=true) 
 
 ## دادگان گفتار احساسی شریف (شمو) 
 برای دریافت مقاله <a href='https://arxiv.org/pdf/1906.01155.pdf'>اینجا</a> کلیک کنید
