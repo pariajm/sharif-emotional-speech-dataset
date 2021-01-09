@@ -34,8 +34,8 @@ the inter-annotator agreement is 64% which is interpreted as "substantial agreem
 Read our paper on <a href='https://link.springer.com/article/10.1007/s10579-018-9427-x'>Springer</a> or [arxiv](https://arxiv.org/pdf/1906.01155.pdf)
 
 ## Description of Labels
-The characters used in the labels and their corresponding meaning:
-- A : anger emotion
+The characters used in the label of the utterances and their corresponding meaning:
+- "A" : anger emotion
 - F : female speaker (if used at the beginning of the label e.g. **F14A09**) or fear (if used in the middle of the label e.g. __M02F01__)
 - H : happiness
 - M : male speaker
