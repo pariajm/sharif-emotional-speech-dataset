@@ -13,8 +13,9 @@ the inter-annotator agreement is 64% which is interpreted as "substantial agreem
 
 ## Overview of Sharif Emotional Speech (ShEMO) Database
 
+  <!-- -->               | <!-- -->    
+  -------------          | ----------
 Access                   | Open source
---------                 | ----
 Language                 | Persian
 Duration                 | 3 hours and 25 minutes
 #Utterances              | 3000
@@ -28,15 +29,14 @@ Read our paper on <a href='https://link.springer.com/article/10.1007/s10579-018-
 ## Description of Labels
 The characters used in the label of the utterances and their corresponding meaning:
 - **A**: anger emotion
-- **F**: female speaker (if used at the beginning of the label e.g.`F14A09`) or fear (if used in the middle of the label e.g. __M02F01__)
+- **F**: female speaker (if used at the beginning of the label e.g.`F14A09`) or fear (if used in the middle of the label e.g. `M02F01`)
 - **H** : happiness
 - **M** : male speaker
 - **N** : neutral
 - **S** : sadness
 - **W** : surprise
 
-e.g. `F03S02` means the speaker is __female (F)__, __speaker code is 03__, the underlying emotion of the utterance is __sadness (S)__,
-and this is the __second utterance for this speaker in sad emotion__.
+e.g. `F03S02` **F** means the speaker is **female**, **03** denotes **the speaker code**, **S** refers to the underlying emotion of the utterance which is **sadness**, **02** means this is the **second utterance for this speaker in sad emotion**.
 
 ## دادگان گفتار احساسی شریف (شمو) 
 برای دریافت مقاله <a href='https://arxiv.org/pdf/1906.01155.pdf'>اینجا</a> کلیک کنید
