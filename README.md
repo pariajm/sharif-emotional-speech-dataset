@@ -1,6 +1,6 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) 
 
-# <a href='https://link.springer.com/article/10.1007/s10579-018-9427-x'>ShEMO: a large-scale validated database for Persian speech emotion detection</a><br>
+# <a href='https://arxiv.org/pdf/1906.01155.pdf'>ShEMO: a large-scale validated database for Persian speech emotion detection</a><br>
 
 ## Abstract
 <div align="justify"> This paper introduces a large-scale, validated database for Persian called Sharif Emotional Speech Database (ShEMO). The database includes 3000 semi-natural utterances, equivalent to 3 hours and 25 minutes of speech data extracted from online radio plays. The ShEMO covers speech samples of 87 native-Persian speakers for five basic emotions including <i>anger</i>, <i>fear</i>, <i>happiness</i>, <i>sadness</i> and <i>surprise</i>, as well as neutral state. Twelve annotators label the underlying emotional state of utterances and majority voting is used to decide on the final labels. According to the kappa measure, 
@@ -11,14 +11,20 @@ the inter-annotator agreement is 64% which is interpreted as "substantial agreem
 - [Link to male utterances](https://github.com/pariajm/sharif-emotional-speech-database/blob/master/male.zip?raw=true)
 - [Link to transcripts](https://github.com/pariajm/sharif-emotional-speech-database/blob/master/transcript.zip?raw=true) 
 
-## ShEMO Database
+## Sharif Emotional Speech (ShEMO) Database
 
 <ul>
-<li> Sharif Emotional Speech Database (ShEMO)</li> 
+<li> Open source</li> 
 
 <li> Language: Persian</li>
 
 <li> Duration: 3 hours and 25 minutes</li>
+
+<li> #Utterances: 3000</li>
+
+<li> #Speakers: 87 (31 females, 56 males)</li>
+
+<li> Emotions: 5 basice emotions (anger, fear, happiness, sadness, surprise and neutral state</li>
 
 <li>Orthographic transcripts: Available</li>
 
