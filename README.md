@@ -13,6 +13,7 @@ the inter-annotator agreement is 64% which is interpreted as "substantial agreem
 
 ## Overview of Sharif Emotional Speech (ShEMO) Database
 
+--------      | ----
 accessability | Open source
 Language      | Persian
 
