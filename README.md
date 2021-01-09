@@ -11,25 +11,22 @@ the inter-annotator agreement is 64% which is interpreted as "substantial agreem
 - [Link to male utterances](https://github.com/pariajm/sharif-emotional-speech-database/blob/master/male.zip?raw=true)
 - [Link to transcripts](https://github.com/pariajm/sharif-emotional-speech-database/blob/master/transcript.zip?raw=true) 
 
-## Sharif Emotional Speech (ShEMO) Database
+## Overview of Sharif Emotional Speech (ShEMO) Database
 
-<ul>
-<li> Open source</li> 
+accessability | Open source
+Language      | Persian
 
-<li> Language: Persian</li>
+- Duration: 3 hours and 25 minutes
 
-<li> Duration: 3 hours and 25 minutes</li>
+- #Utterances: 3000
 
-<li> #Utterances: 3000</li>
+- #Speakers: 87 (31 females, 56 males)
 
-<li> #Speakers: 87 (31 females, 56 males)</li>
+- Emotions: 5 basice emotions (anger, fear, happiness, sadness, surprise and neutral state
 
-<li> Emotions: 5 basice emotions (anger, fear, happiness, sadness, surprise and neutral state</li>
+- Orthographic transcripts: Available
 
-<li>Orthographic transcripts: Available</li>
-
-<li>Phonetic transcripts: Available</li>
-</ul>
+- Phonetic transcripts: Available
 
 Read our paper on <a href='https://link.springer.com/article/10.1007/s10579-018-9427-x'>Springer</a> or [arxiv](https://arxiv.org/pdf/1906.01155.pdf)
 
