@@ -13,21 +13,15 @@ the inter-annotator agreement is 64% which is interpreted as "substantial agreem
 
 ## Overview of Sharif Emotional Speech (ShEMO) Database
 
---------      | ----
-accessability | Open source
-Language      | Persian
-
-- Duration: 3 hours and 25 minutes
-
-- #Utterances: 3000
-
-- #Speakers: 87 (31 females, 56 males)
-
-- Emotions: 5 basice emotions (anger, fear, happiness, sadness, surprise and neutral state
-
-- Orthographic transcripts: Available
-
-- Phonetic transcripts: Available
+Access                   | Open source
+--------                 | ----
+Language                 | Persian
+Duration                 | 3 hours and 25 minutes
+#Utterances              | 3000
+#Speakers                | 87 (31 females, 56 males)
+#Emotions                | 5 basic emotions (anger, fear, happiness, sadness and surprise) and neutral state
+Orthographic transcripts |  Available
+Phonetic transcripts     | Available
 
 Read our paper on <a href='https://link.springer.com/article/10.1007/s10579-018-9427-x'>Springer</a> or [arxiv](https://arxiv.org/pdf/1906.01155.pdf)
 
