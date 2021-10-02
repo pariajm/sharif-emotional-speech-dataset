@@ -7,9 +7,20 @@
 the inter-annotator agreement is 64% which is interpreted as "substantial agreement". We also present benchmark results based on common classification methods in speech emotion detection task. According to the experiments, support vector machine achieves the best results for both gender-independent (58.2%) and gender-dependent models (female=59.4%, male=57.6%). The ShEMO is available for academic purposes free of charge to provide a baseline for further research on Persian emotional speech.
 
 ## Download Dataset 
-- [Link to female utterances](https://github.com/pariajm/sharif-emotional-speech-database/blob/master/female.zip?raw=true)
-- [Link to male utterances](https://github.com/pariajm/sharif-emotional-speech-database/blob/master/male.zip?raw=true)
-- [Link to labels & transcripts (json file)](https://github.com/pariajm/sharif-emotional-speech-database/blob/master/shemo.json?raw=true) 
+To download female utterances (zip file):
+```bash
+wget https://github.com/pariajm/sharif-emotional-speech-database/raw/master/female.zip
+```
+ 
+To download male utterances (zip file):
+```bash
+wget https://github.com/pariajm/sharif-emotional-speech-database/raw/master/male.zip
+```
+
+To download labels & transcripts (json file):
+```bash
+wget https://github.com/pariajm/sharif-emotional-speech-database/raw/master/shemo.json
+```
  
 ## Models Trained or Fine-tuned on ShEMO
 Credits to [Mehrdad Farahani](https://github.com/m3hrdadfi/soxan)
