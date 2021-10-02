@@ -11,8 +11,8 @@ the inter-annotator agreement is 64% which is interpreted as "substantial agreem
 - [Link to male utterances](https://github.com/pariajm/sharif-emotional-speech-database/blob/master/male.zip?raw=true)
 - [Link to labels & transcripts (json file)](https://github.com/pariajm/sharif-emotional-speech-database/blob/master/shemo.json) 
  
-## Models trained or fine-tuned on ShEMO
-Credits to [Mehrdad Farahani](https://github.com/m3hrdadfi/soxan):
+## Models Trained or Fine-tuned on ShEMO
+Credits to [Mehrdad Farahani](https://github.com/m3hrdadfi/soxan)
  - [Speech emotion detection in Persian (fa) using wav2vec 2.0](https://huggingface.co/m3hrdadfi/wav2vec2-xlsr-persian-speech-emotion-recognition)
  - [Speech emotion detection in Persian (fa) using HuBERT](https://huggingface.co/m3hrdadfi/hubert-base-persian-speech-emotion-recognition)
  - [Speech geneder detection in Persian (fa) using HuBERT](https://huggingface.co/m3hrdadfi/hubert-base-persian-speech-gender-recognition)
@@ -50,11 +50,11 @@ e.g. `F03S02` **F** means the speaker is **female**, **03** denotes **the speake
 Here is a sample of data instances:
 ```json
 {
- 'id': 'F21N37', 
- 'gender': 'female', 
- 'emotion': 'neutral', 
- 'transcript': 'مگه من به تو نگفته بودم که باید راجع به دورانت سکوت کنی؟', 
- 'ipa': 'mӕge mæn be to nægofte budӕm ke bɑyæd rɑdʒeʔ be dorɑnt sokut koni'
+ "id": "F21N37", 
+ "gender": "female", 
+ "emotion": "neutral", 
+ "transcript": "مگه من به تو نگفته بودم که باید راجع به دورانت سکوت کنی؟", 
+ "ipa": "mӕge mæn be to nægofte budӕm ke bɑyæd rɑdʒeʔ be dorɑnt sokut koni"
  }
 ```
  
