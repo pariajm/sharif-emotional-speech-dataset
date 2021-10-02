@@ -9,7 +9,7 @@ the inter-annotator agreement is 64% which is interpreted as "substantial agreem
 ## Download Dataset 
 - [Link to female utterances](https://github.com/pariajm/sharif-emotional-speech-database/blob/master/female.zip?raw=true)
 - [Link to male utterances](https://github.com/pariajm/sharif-emotional-speech-database/blob/master/male.zip?raw=true)
-- [Link to labels & transcripts (json file)](https://github.com/pariajm/sharif-emotional-speech-database/blob/master/shemo.json) 
+- [Link to labels & transcripts (json file)](https://github.com/pariajm/sharif-emotional-speech-database/blob/master/shemo.json?raw=true) 
  
 ## Models Trained or Fine-tuned on ShEMO
 Credits to [Mehrdad Farahani](https://github.com/m3hrdadfi/soxan)
