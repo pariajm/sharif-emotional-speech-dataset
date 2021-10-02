@@ -9,17 +9,17 @@ the inter-annotator agreement is 64% which is interpreted as "substantial agreem
 ## Download Dataset 
 To download female utterances (zip file):
 ```bash
-wget https://github.com/pariajm/sharif-emotional-speech-database/raw/master/female.zip
+wget https://github.com/pariajm/sharif-emotional-speech-dataset/raw/master/female.zip
 ```
  
 To download male utterances (zip file):
 ```bash
-wget https://github.com/pariajm/sharif-emotional-speech-database/raw/master/male.zip
+wget https://github.com/pariajm/sharif-emotional-speech-dataset/raw/master/male.zip
 ```
 
 To download labels & transcripts (json file):
 ```bash
-wget https://github.com/pariajm/sharif-emotional-speech-database/raw/master/shemo.json
+wget https://github.com/pariajm/sharif-emotional-speech-dataset/raw/master/shemo.json
 ```
  
 ## Models Trained or Fine-tuned on ShEMO
