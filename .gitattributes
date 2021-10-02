@@ -1,1 +1,4 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
+../Downloads/female.tar.gz filter=lfs diff=lfs merge=lfs -text
+../Downloads/*.tar.gz filter=lfs diff=lfs merge=lfs -text
+../Downloads/*.zip filter=lfs diff=lfs merge=lfs -text
