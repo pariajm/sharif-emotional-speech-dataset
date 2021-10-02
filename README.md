@@ -9,7 +9,7 @@ the inter-annotator agreement is 64% which is interpreted as "substantial agreem
 ## Download Dataset 
 To download female utterances (zip file):
 ```bash
-wget -O female.zip "https://www.dropbox.com/s/5ebs8hq1zm0qkp6/female.zip?dl=0"
+wget -O female.zip "https://www.dropbox.com/s/42okby6c40w3j2x/female.zip?dl=0"
 ```
  
 To download male utterances (zip file):
