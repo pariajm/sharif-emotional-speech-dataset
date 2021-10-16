@@ -60,12 +60,12 @@ e.g. `F03S02` **F** means the speaker is **female**, **03** denotes **the speake
 ## Data Instances
 Here is a sample of data instances:
 ```json
-{
- "id": "F21N37", 
- "gender": "female", 
- "emotion": "neutral", 
- "transcript": "مگه من به تو نگفته بودم که باید راجع به دورانت سکوت کنی؟", 
- "ipa": "mӕge mæn be to nægofte budӕm ke bɑyæd rɑdʒeʔ be dorɑnt sokut koni"
+"F21N37": {
+    "speaker_id": "F21", 
+    "gender": "female", 
+    "emotion": "neutral", 
+    "transcript": "مگه من به تو نگفته بودم که باید راجع به دورانت سکوت کنی؟", 
+    "ipa": "mӕge mæn be to nægofte budӕm ke bɑyæd rɑdʒeʔ be dorɑnt sokut koni"
  }
 ```
  
